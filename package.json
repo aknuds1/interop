@@ -1,8 +1,8 @@
 {
-  "name": "interop-libp2p",
+  "name": "@arve.knudsen/interop-libp2p",
   "version": "0.0.0",
   "description": "Interoperability Tests for libp2p",
-  "leadMaintainer": "Vasco Santos <santos.vasco10@gmail.com>",
+  "leadMaintainer": "Arve Knudsen <arve.knudsen@gmail.com>",
   "main": "",
   "engines": {
     "node": ">=10.0.0",
@@ -16,16 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/libp2p/interop.git"
+    "url": "git+https://github.com/aknuds1/interop.git"
   },
   "keywords": [
     "libp2p"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/libp2p/interop/issues"
+    "url": "https://github.com/aknuds1/interop/issues"
   },
-  "homepage": "https://github.com/libp2p/interop#readme",
+  "homepage": "https://github.com/aknuds1/interop#readme",
   "devDependencies": {
     "libp2p-daemon": "^0.2.2",
     "aegir": "^19.0.5",
